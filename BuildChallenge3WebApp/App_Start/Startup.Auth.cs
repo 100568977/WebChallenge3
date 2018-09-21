@@ -59,8 +59,8 @@ namespace BuildChallenge3WebApp
             //   appSecret: "");
 
             app.UseGoogleAuthentication(
-                     clientId: "1028771843308-5udlqcuh101btviteien9h8rmcp6tpif.apps.googleusercontent.com",
-                     clientSecret: "Ap-CxACYBaKItzxmcBCQoZz7");
+                     clientId: "Hidden",
+                     clientSecret: "Hidden");
 
         }
     }
